@@ -106,6 +106,10 @@
 - [Python](https://www.jamestharpe.com/languages/python/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="center" alt="jamestharpe GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jamestharpe&show_icons=true&hide_border=true" />
+
 <!--
 **jamestharpe/jamestharpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
