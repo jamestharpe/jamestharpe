@@ -8,6 +8,16 @@
 
 <br />
 
+## 📝 Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Terminal Shortcuts](https://www.jamestharpe.com/terminal-shortcuts/)
+- [DynamoDB & CloudFormation: Add a Local Secondary Index to Existing Table](https://www.jamestharpe.com/dynamodb-local-secondary-index-existing-table-cloudformation/)
+- [Database as Code on Cloud Foundry with Flyway](https://www.jamestharpe.com/database-as-code-flyway/)
+- [Spring MVC CRUD Operations](https://www.jamestharpe.com/spring-mvc-crud-operations/)
+- [PCF Spring Boot Environment Basics](https://www.jamestharpe.com/pcf-spring-boot-environment-basics/)
+<!-- BLOG-POST-LIST:END -->
+
 ## Languages and Tools 🛠
 
 <!-- Languages -->
@@ -96,17 +106,7 @@
 
 <br /><br />
 
-## 📝 Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [Terminal Shortcuts](https://www.jamestharpe.com/terminal-shortcuts/)
-- [DynamoDB & CloudFormation: Add a Local Secondary Index to Existing Table](https://www.jamestharpe.com/dynamodb-local-secondary-index-existing-table-cloudformation/)
-- [Database as Code on Cloud Foundry with Flyway](https://www.jamestharpe.com/database-as-code-flyway/)
-- [Spring MVC CRUD Operations](https://www.jamestharpe.com/spring-mvc-crud-operations/)
-- [PCF Spring Boot Environment Basics](https://www.jamestharpe.com/pcf-spring-boot-environment-basics/)
-<!-- BLOG-POST-LIST:END -->
-
----
+## Stats
 
 <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jamestharpe&show_icons=true&hide_border=true&count_private=true" />
 <img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamestharpe&layout=compact&hide_border=true" />
