@@ -21,7 +21,7 @@
 <img align="left" alt="PowerShell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/powershell.svg">
 <img align="left" alt="JSON" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg">
 
-<br />
+<br /><br />
 
 <!-- APIs and CLIs -->
 
@@ -31,7 +31,7 @@
 <img align="left" alt="Gatsby" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg">
 <img align="left" alt="Twilio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twilio.svg">
 
-<br />
+<br /><br />
 
 <!-- Apps -->
 
@@ -41,7 +41,7 @@
 <img align="left" alt="WP Engine" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wpengine.svg">
 <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg">
 
-<br />
+<br /><br />
 
 <!-- Package Managers and Test Frameworks -->
 
@@ -50,7 +50,7 @@
 <img align="left" alt="Jest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg">
 <img align="left" alt="ESLint" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eslint.svg">
 
-<br />
+<br /><br />
 
 <!-- Frameworks and Libs -->
 
@@ -59,7 +59,7 @@
 <img align="left" alt="Swagger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg">
 <img align="left" alt="JQuery" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg">
 
-<br />
+<br /><br />
 
 <!-- Run-times -->
 
@@ -67,34 +67,34 @@
 <img align="left" alt=".NET" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg">
 
 
-<br />
+<br /><br />
 
 <!-- Editors and IDEs -->
 
 <img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg">
 <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg">
 
-<br />
+<br /><br />
 
 <!-- Cloud -->
 
 <img align="left" alt="AWS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg">
 <img align="left" alt="Azure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftazure.svg">
 
-<br />
+<br /><br />
 
 <!-- OSes -->
 
 <img align="left" alt="Windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg">
 <img align="left" alt="Linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg">
 
-<br />
+<br /><br />
 
 <!-- Hardware -->
 
 <img align="left" alt="Raspberry Pi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg">
 
-<br />
+<br /><br />
 
 
 <!--
