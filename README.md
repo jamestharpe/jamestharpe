@@ -99,11 +99,11 @@
 ## 📝 Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash](https://www.jamestharpe.com/languages/bash/)
-- [Yaml](https://www.jamestharpe.com/languages/yaml/)
-- [Sql](https://www.jamestharpe.com/languages/sql/)
-- [Java](https://www.jamestharpe.com/languages/java/)
-- [Python](https://www.jamestharpe.com/languages/python/)
+- [Terminal Shortcuts](https://www.jamestharpe.com/terminal-shortcuts/)
+- [DynamoDB & CloudFormation: Add a Local Secondary Index to Existing Table](https://www.jamestharpe.com/dynamodb-local-secondary-index-existing-table-cloudformation/)
+- [Database as Code on Cloud Foundry with Flyway](https://www.jamestharpe.com/database-as-code-flyway/)
+- [Spring MVC CRUD Operations](https://www.jamestharpe.com/spring-mvc-crud-operations/)
+- [PCF Spring Boot Environment Basics](https://www.jamestharpe.com/pcf-spring-boot-environment-basics/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
