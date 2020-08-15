@@ -1,10 +1,4 @@
-# Hi 👋, I'm James
-
-[<img align="left" alt="James Tharpe's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.jamestharpe.com/)
-[<img align="left" alt="James Tharpe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/jamestharpe)
-[<img align="left" alt="James Tharpe's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jamestharpe/)
-[<img align="left" alt="James Tharpe's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">](https://stackoverflow.com/users/104763/james)
-[<img align="left" alt="James Tharpe's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg">](https://gitlab.com/jamestharpe)
+# Hi 👋, I'm James [<img align="right" alt="James Tharpe's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://www.jamestharpe.com/)[<img align="right" alt="James Tharpe's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">](https://twitter.com/jamestharpe)[<img align="right" alt="James Tharpe's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jamestharpe/)[<img align="right" alt="James Tharpe's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">](https://stackoverflow.com/users/104763/james)[<img align="right" alt="James Tharpe's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg">](https://gitlab.com/jamestharpe)
 
 <br />
 
