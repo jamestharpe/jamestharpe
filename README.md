@@ -2,7 +2,7 @@
 
 <br />
 
-## 📝 Blog
+## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Terminal Shortcuts](https://www.jamestharpe.com/terminal-shortcuts/)
@@ -12,7 +12,7 @@
 - [PCF Spring Boot Environment Basics](https://www.jamestharpe.com/pcf-spring-boot-environment-basics/)
 <!-- BLOG-POST-LIST:END -->
 
-## Languages and Tools 🛠
+## Languages and Tools I Enjoy 🛠
 
 <!-- Languages -->
 <img align="left" alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
