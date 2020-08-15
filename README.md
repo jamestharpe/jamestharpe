@@ -109,7 +109,7 @@
 ---
 
 <img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jamestharpe&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamestharpe&layout=compact" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamestharpe&layout=compact&hide_border=true" />
 
 <!--
 **jamestharpe/jamestharpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
