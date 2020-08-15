@@ -99,6 +99,11 @@
 ## 📝 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Bash](https://www.jamestharpe.com/languages/bash/)
+- [Yaml](https://www.jamestharpe.com/languages/yaml/)
+- [Sql](https://www.jamestharpe.com/languages/sql/)
+- [Java](https://www.jamestharpe.com/languages/java/)
+- [Python](https://www.jamestharpe.com/languages/python/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
