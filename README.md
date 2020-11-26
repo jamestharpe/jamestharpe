@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal Shortcuts](https://www.jamestharpe.com/terminal-shortcuts/)
-- [DynamoDB & CloudFormation: Add a Local Secondary Index to Existing Table](https://www.jamestharpe.com/dynamodb-local-secondary-index-existing-table-cloudformation/)
-- [Database as Code on Cloud Foundry with Flyway](https://www.jamestharpe.com/database-as-code-flyway/)
-- [Spring MVC CRUD Operations](https://www.jamestharpe.com/spring-mvc-crud-operations/)
-- [PCF Spring Boot Environment Basics](https://www.jamestharpe.com/pcf-spring-boot-environment-basics/)
+- [Atomic Habits by James Clear](https://www.jamestharpe.com/book-atomic-habits/)
+- [Physics](https://www.jamestharpe.com/physics/)
+- [Electricity](https://www.jamestharpe.com/electricity/)
+- [Watt's Law (Power Law)](https://www.jamestharpe.com/watts-law/)
+- [Linux](https://www.jamestharpe.com/linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
