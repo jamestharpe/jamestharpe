@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Negotiation](https://www.jamestharpe.com/negotiation/)
-- [Chris Voss](https://www.jamestharpe.com/chris-voss/)
-- [Atomic Habits by James Clear](https://www.jamestharpe.com/book-atomic-habits/)
-- [Physics](https://www.jamestharpe.com/physics/)
-- [Electricity](https://www.jamestharpe.com/electricity/)
+- [Median](https://www.jamestharpe.com/median/)
+- [Arithmetic Mean](https://www.jamestharpe.com/arithmetic-mean/)
+- [Interquartile Range (IQR)](https://www.jamestharpe.com/interquartile-range/)
+- [Machine Learning](https://www.jamestharpe.com/machine-learning/)
+- [Data Analysis](https://www.jamestharpe.com/data-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
