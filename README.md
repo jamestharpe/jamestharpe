@@ -8,7 +8,7 @@
 - [Median](https://www.jamestharpe.com/median/)
 - [Arithmetic Mean](https://www.jamestharpe.com/arithmetic-mean/)
 - [Interquartile Range (IQR)](https://www.jamestharpe.com/interquartile-range/)
-- [Machine Learning](https://www.jamestharpe.com/machine-learning/)
+- [Machine Learning (ML)](https://www.jamestharpe.com/machine-learning/)
 - [Data Analysis](https://www.jamestharpe.com/data-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
