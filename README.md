@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Median](https://www.jamestharpe.com/median/)
-- [Arithmetic Mean](https://www.jamestharpe.com/arithmetic-mean/)
-- [Interquartile Range (IQR)](https://www.jamestharpe.com/interquartile-range/)
-- [Machine Learning (ML)](https://www.jamestharpe.com/machine-learning/)
-- [Data Analysis](https://www.jamestharpe.com/data-analysis/)
+- [Predictions for the Future](https://www.jamestharpe.com/predictions/)
+- [Free Software Foundation (FSF)](https://www.jamestharpe.com/free-software-foundation/)
+- [Open Source Initiative (OSI)](https://www.jamestharpe.com/open-source-initiative/)
+- [Open Source](https://www.jamestharpe.com/open-source/)
+- [Apache Software Foundation (ASF)](https://www.jamestharpe.com/apache/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
