@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Markdown: Detect Broken links](https://www.jamestharpe.com/markdown-link-check/)
 - [Predictions for the Future](https://www.jamestharpe.com/predictions/)
 - [Free Software Foundation (FSF)](https://www.jamestharpe.com/free-software-foundation/)
 - [Open Source Initiative (OSI)](https://www.jamestharpe.com/open-source-initiative/)
 - [Open Source](https://www.jamestharpe.com/open-source/)
-- [Apache Software Foundation (ASF)](https://www.jamestharpe.com/apache/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
