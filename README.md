@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quotes from Demon-Haunted World by Carl Sagan](https://www.jamestharpe.com/demon-haunted-world/)
+- [Science](https://www.jamestharpe.com/science/)
+- [Economics](https://www.jamestharpe.com/economics/)
+- [Gresham's Law](https://www.jamestharpe.com/greshams-law/)
 - [Markdown: Detect Broken links](https://www.jamestharpe.com/markdown-link-check/)
-- [Predictions for the Future](https://www.jamestharpe.com/predictions/)
-- [Free Software Foundation (FSF)](https://www.jamestharpe.com/free-software-foundation/)
-- [Open Source Initiative (OSI)](https://www.jamestharpe.com/open-source-initiative/)
-- [Open Source](https://www.jamestharpe.com/open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
