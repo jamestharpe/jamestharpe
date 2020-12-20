@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Quotes from Demon-Haunted World by Carl Sagan](https://www.jamestharpe.com/demon-haunted-world/)
-- [Science](https://www.jamestharpe.com/science/)
-- [Economics](https://www.jamestharpe.com/economics/)
-- [Gresham's Law](https://www.jamestharpe.com/greshams-law/)
-- [Markdown: Detect Broken links](https://www.jamestharpe.com/markdown-link-check/)
+- [CI/CD Flow](https://www.jamestharpe.com/ci-cd-flow/)
+- [Software Pipelines (CI/CD)](https://www.jamestharpe.com/ci-cd/)
+- [JavaScript](https://www.jamestharpe.com/javascript/)
+- [Data Driven Documents (D3) JavaScript Library](https://www.jamestharpe.com/d3/)
+- [React and D3](https://www.jamestharpe.com/react-d3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
