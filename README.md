@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Flow](https://www.jamestharpe.com/ci-cd-flow/)
-- [Software Pipelines (CI/CD)](https://www.jamestharpe.com/ci-cd/)
+- [React (JavaScript Library)](https://www.jamestharpe.com/react/)
+- [Use vis.js in a React Application](https://www.jamestharpe.com/react-visjs/)
 - [JavaScript](https://www.jamestharpe.com/javascript/)
-- [Data Driven Documents (D3) JavaScript Library](https://www.jamestharpe.com/d3/)
-- [React and D3](https://www.jamestharpe.com/react-d3/)
+- [vis.js (JavaScript Library)](https://www.jamestharpe.com/visjs/)
+- [GitLab CI/CD Tips](https://www.jamestharpe.com/gitlab-ci-cd-tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
