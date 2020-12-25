@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React (JavaScript Library)](https://www.jamestharpe.com/react/)
-- [Use vis.js in a React Application](https://www.jamestharpe.com/react-visjs/)
-- [JavaScript](https://www.jamestharpe.com/javascript/)
-- [vis.js (JavaScript Library)](https://www.jamestharpe.com/visjs/)
-- [GitLab CI/CD Tips](https://www.jamestharpe.com/gitlab-ci-cd-tips/)
+- [Git Internals](https://www.jamestharpe.com/git-internals/)
+- [Linus Torvalds](https://www.jamestharpe.com/linus-torvalds/)
+- [Software Engineering](https://www.jamestharpe.com/software-engineering/)
+- [The Cathedral and the Bazaar](https://www.jamestharpe.com/cathedral-and-the-bazaar/)
+- [Eric Raymond](https://www.jamestharpe.com/eric-raymond/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
