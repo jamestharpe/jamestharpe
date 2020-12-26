@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Internals](https://www.jamestharpe.com/git-internals/)
-- [Linus Torvalds](https://www.jamestharpe.com/linus-torvalds/)
-- [Software Engineering](https://www.jamestharpe.com/software-engineering/)
-- [The Cathedral and the Bazaar](https://www.jamestharpe.com/cathedral-and-the-bazaar/)
-- [Eric Raymond](https://www.jamestharpe.com/eric-raymond/)
+- [Productive Daily Routines](https://www.jamestharpe.com/daily-routine/)
+- [Existential Links](https://www.jamestharpe.com/existential-links/)
+- [The 7 Habits of Highly Effective People (Book)](https://www.jamestharpe.com/7-habits/)
+- [Stephen Covey's Time Management Matrix](https://www.jamestharpe.com/covey-time-management-matrix/)
+- [Stephen Covey](https://www.jamestharpe.com/stephen-covey/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
