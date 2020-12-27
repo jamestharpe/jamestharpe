@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Productive Daily Routines](https://www.jamestharpe.com/daily-routine/)
-- [Existential Links](https://www.jamestharpe.com/existential-links/)
-- [The 7 Habits of Highly Effective People (Book)](https://www.jamestharpe.com/7-habits/)
-- [Stephen Covey's Time Management Matrix](https://www.jamestharpe.com/covey-time-management-matrix/)
-- [Stephen Covey](https://www.jamestharpe.com/stephen-covey/)
+- [Physics](https://www.jamestharpe.com/physics/)
+- [Electricity](https://www.jamestharpe.com/electricity/)
+- [Power (Physics)](https://www.jamestharpe.com/power/)
+- [Timeboxing](https://www.jamestharpe.com/timeboxing/)
+- [Email Productivity](https://www.jamestharpe.com/email-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
