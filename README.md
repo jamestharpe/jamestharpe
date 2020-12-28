@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C++](https://www.jamestharpe.com/cpp/)
 - [Physics](https://www.jamestharpe.com/physics/)
 - [Electricity](https://www.jamestharpe.com/electricity/)
 - [Power (Physics)](https://www.jamestharpe.com/power/)
 - [Timeboxing](https://www.jamestharpe.com/timeboxing/)
-- [Email Productivity](https://www.jamestharpe.com/email-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
