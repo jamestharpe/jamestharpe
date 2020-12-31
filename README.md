@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [State Machines](https://www.jamestharpe.com/state-machines/)
+- [Statecharts](https://www.jamestharpe.com/statecharts/)
+- [XState (JavaScript Library)](https://www.jamestharpe.com/xstate/)
 - [C++](https://www.jamestharpe.com/cpp/)
 - [Physics](https://www.jamestharpe.com/physics/)
-- [Electricity](https://www.jamestharpe.com/electricity/)
-- [Power (Physics)](https://www.jamestharpe.com/power/)
-- [Timeboxing](https://www.jamestharpe.com/timeboxing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
