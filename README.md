@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [State Machines](https://www.jamestharpe.com/state-machines/)
-- [Statecharts](https://www.jamestharpe.com/statecharts/)
-- [XState (JavaScript Library)](https://www.jamestharpe.com/xstate/)
-- [C++](https://www.jamestharpe.com/cpp/)
-- [Physics](https://www.jamestharpe.com/physics/)
+- [Arduino Programming](https://www.jamestharpe.com/arduino-programming/)
+- [Arduino tone() Function](https://www.jamestharpe.com/arduino-tone/)
+- [Arduino Uno](https://www.jamestharpe.com/arduino-uno/)
+- [Electrical Engineering](https://www.jamestharpe.com/electrical-engineering/)
+- [Engineering](https://www.jamestharpe.com/engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
