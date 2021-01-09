@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Arduino Programming](https://www.jamestharpe.com/arduino-programming/)
-- [Arduino tone() Function](https://www.jamestharpe.com/arduino-tone/)
-- [Arduino Uno](https://www.jamestharpe.com/arduino-uno/)
-- [Electrical Engineering](https://www.jamestharpe.com/electrical-engineering/)
-- [Engineering](https://www.jamestharpe.com/engineering/)
+- [Microsoft Windows OS](https://www.jamestharpe.com/windows/)
+- [MakerBot Thingiverse](https://www.jamestharpe.com/thingiverse/)
+- [Windows Subsystem for Linux (WSL)](https://www.jamestharpe.com/wsl/)
+- [Mechanical Engineering](https://www.jamestharpe.com/mechanical-engineering/)
+- [McMaster-Carr](https://www.jamestharpe.com/mcmaster-carr/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
