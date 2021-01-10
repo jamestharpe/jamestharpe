@@ -5,7 +5,7 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Windows OS](https://www.jamestharpe.com/windows/)
+- [Microsoft Windows](https://www.jamestharpe.com/windows/)
 - [MakerBot Thingiverse](https://www.jamestharpe.com/thingiverse/)
 - [Windows Subsystem for Linux (WSL)](https://www.jamestharpe.com/wsl/)
 - [Mechanical Engineering](https://www.jamestharpe.com/mechanical-engineering/)
