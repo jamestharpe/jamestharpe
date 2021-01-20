@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Windows](https://www.jamestharpe.com/windows/)
-- [MakerBot Thingiverse](https://www.jamestharpe.com/thingiverse/)
-- [Windows Subsystem for Linux (WSL)](https://www.jamestharpe.com/wsl/)
-- [Mechanical Engineering](https://www.jamestharpe.com/mechanical-engineering/)
-- [McMaster-Carr](https://www.jamestharpe.com/mcmaster-carr/)
+- [Arduino](https://www.jamestharpe.com/arduino/)
+- [Angular Motion](https://www.jamestharpe.com/angular-motion/)
+- [Circles (Geometry)](https://www.jamestharpe.com/circles/)
+- [Geometry](https://www.jamestharpe.com/geometry/)
+- [Radian](https://www.jamestharpe.com/radians/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
