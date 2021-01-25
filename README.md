@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sugru](https://www.jamestharpe.com/sugru/)
 - [Arduino](https://www.jamestharpe.com/arduino/)
 - [Angular Motion](https://www.jamestharpe.com/angular-motion/)
 - [Circles (Geometry)](https://www.jamestharpe.com/circles/)
 - [Geometry](https://www.jamestharpe.com/geometry/)
-- [Radian](https://www.jamestharpe.com/radians/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
