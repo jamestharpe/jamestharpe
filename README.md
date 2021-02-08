@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arduino 16x2 LCD](https://www.jamestharpe.com/arduino-lcd-16x2/)
+- [Arduino Thermostat](https://www.jamestharpe.com/arduino-thermostat/)
 - [Sugru](https://www.jamestharpe.com/sugru/)
 - [Arduino](https://www.jamestharpe.com/arduino/)
 - [Angular Motion](https://www.jamestharpe.com/angular-motion/)
-- [Circles (Geometry)](https://www.jamestharpe.com/circles/)
-- [Geometry](https://www.jamestharpe.com/geometry/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
