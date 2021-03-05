@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modify Response Headers in Angular Proxy (ng serve)](https://www.jamestharpe.com/angular-proxy-set-response-headers/)
 - [Arduino 16x2 LCD](https://www.jamestharpe.com/arduino-lcd-16x2/)
 - [Arduino Thermostat](https://www.jamestharpe.com/arduino-thermostat/)
 - [Sugru](https://www.jamestharpe.com/sugru/)
 - [Arduino](https://www.jamestharpe.com/arduino/)
-- [Angular Motion](https://www.jamestharpe.com/angular-motion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
