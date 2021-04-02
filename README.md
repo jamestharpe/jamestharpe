@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Origin Resource Sharing (CORS)](https://www.jamestharpe.com/cors/)
-- [Web Development](https://www.jamestharpe.com/web-dev/)
-- [Operating Systems](https://www.jamestharpe.com/operating-systems/)
-- [Minicom](https://www.jamestharpe.com/minicom/)
-- [Relays](https://www.jamestharpe.com/relays/)
+- [Levers](https://www.jamestharpe.com/levers/)
+- [Simple Machines](https://www.jamestharpe.com/simple-machines/)
+- [Engineering](https://www.jamestharpe.com/engineering/)
+- [Headless Chrome](https://www.jamestharpe.com/headless-chrome/)
+- [Ubuntu Linux Distribution](https://www.jamestharpe.com/debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
