@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SPACE Framework](https://www.jamestharpe.com/space-framework/)
 - [Levers](https://www.jamestharpe.com/levers/)
 - [Simple Machines](https://www.jamestharpe.com/simple-machines/)
 - [Engineering](https://www.jamestharpe.com/engineering/)
 - [Headless Chrome](https://www.jamestharpe.com/headless-chrome/)
-- [Ubuntu Linux Distribution](https://www.jamestharpe.com/debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
