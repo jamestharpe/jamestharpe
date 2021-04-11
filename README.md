@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SPACE Framework](https://www.jamestharpe.com/space-framework/)
-- [Levers](https://www.jamestharpe.com/levers/)
-- [Simple Machines](https://www.jamestharpe.com/simple-machines/)
-- [Engineering](https://www.jamestharpe.com/engineering/)
-- [Headless Chrome](https://www.jamestharpe.com/headless-chrome/)
+- [Nonprofit Organizations](https://www.jamestharpe.com/nonprofits/)
+- [Charge and Coulombs](https://www.jamestharpe.com/charge/)
+- [Resistance and Ohms](https://www.jamestharpe.com/resistance/)
+- [Frequency and Hertz (Hz)](https://www.jamestharpe.com/frequency/)
+- [Khan Academy](https://www.jamestharpe.com/khan-academy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
