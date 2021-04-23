@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bureau International des Poids et Mesures (BIPM)](https://www.jamestharpe.com/bipm/)
+- [The Pomodoro Technique](https://www.jamestharpe.com/pomodoro/)
 - [Nonprofit Organizations](https://www.jamestharpe.com/nonprofits/)
 - [Charge and Coulombs](https://www.jamestharpe.com/charge/)
 - [Resistance and Ohms](https://www.jamestharpe.com/resistance/)
-- [Frequency and Hertz (Hz)](https://www.jamestharpe.com/frequency/)
-- [Khan Academy](https://www.jamestharpe.com/khan-academy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
