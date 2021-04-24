@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bureau International des Poids et Mesures (BIPM)](https://www.jamestharpe.com/bipm/)
-- [The Pomodoro Technique](https://www.jamestharpe.com/pomodoro/)
-- [Nonprofit Organizations](https://www.jamestharpe.com/nonprofits/)
-- [Charge and Coulombs](https://www.jamestharpe.com/charge/)
-- [Resistance and Ohms](https://www.jamestharpe.com/resistance/)
+- [Electrical Components](https://www.jamestharpe.com/electrical-components/)
+- [Resistors (Electrical Component)](https://www.jamestharpe.com/resistors/)
+- [Electrical Circuits](https://www.jamestharpe.com/circuits/)
+- [Chemistry](https://www.jamestharpe.com/chemistry/)
+- [Atoms](https://www.jamestharpe.com/atoms/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
