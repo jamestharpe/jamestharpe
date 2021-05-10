@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solenoids](https://www.jamestharpe.com/solenoids/)
+- [Conductance and Siemens](https://www.jamestharpe.com/conductance/)
+- [Managing Enterprise IT Initiatives](https://www.jamestharpe.com/enterprise-it-initiatives/)
+- [Software Development Lifecycle (SDLC)](https://www.jamestharpe.com/sdlc/)
 - [Electrical Components](https://www.jamestharpe.com/electrical-components/)
-- [Resistors (Electrical Component)](https://www.jamestharpe.com/resistors/)
-- [Electrical Circuits](https://www.jamestharpe.com/circuits/)
-- [Chemistry](https://www.jamestharpe.com/chemistry/)
-- [Atoms](https://www.jamestharpe.com/atoms/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
