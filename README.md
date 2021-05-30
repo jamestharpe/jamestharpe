@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Konmari Method](https://www.jamestharpe.com/konmari-method/)
 - [Solenoids](https://www.jamestharpe.com/solenoids/)
 - [Conductance and Siemens](https://www.jamestharpe.com/conductance/)
 - [Managing Enterprise IT Initiatives](https://www.jamestharpe.com/enterprise-it-initiatives/)
 - [Software Development Lifecycle (SDLC)](https://www.jamestharpe.com/sdlc/)
-- [Electrical Components](https://www.jamestharpe.com/electrical-components/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
