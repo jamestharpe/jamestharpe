@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Management](https://www.jamestharpe.com/project-management/)
+- [Cascading Style Sheets (CSS)](https://www.jamestharpe.com/css/)
 - [Konmari Method](https://www.jamestharpe.com/konmari-method/)
 - [Solenoids](https://www.jamestharpe.com/solenoids/)
 - [Conductance and Siemens](https://www.jamestharpe.com/conductance/)
-- [Managing Enterprise IT Initiatives](https://www.jamestharpe.com/enterprise-it-initiatives/)
-- [Software Development Lifecycle (SDLC)](https://www.jamestharpe.com/sdlc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
