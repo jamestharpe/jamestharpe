@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Change Management](https://www.jamestharpe.com/change-management/)
+- [Cynefin Framework](https://www.jamestharpe.com/cynefin/)
 - [Scaled Agile Framework (SAFe)](https://www.jamestharpe.com/safe-framework/)
 - [RACI: Responsible, Accountable, Consulted, Informed](https://www.jamestharpe.com/raci/)
 - [Fix the Windows Subsystem for Linux internet connection while on VPN](https://www.jamestharpe.com/wsl-vpn/)
-- [Reset the a user's password in Windows Subsystem for Linux (WSL)](https://www.jamestharpe.com/wsl-root-password/)
-- [Taoism](https://www.jamestharpe.com/taoism/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
