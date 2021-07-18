@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jira Align](https://www.jamestharpe.com/jira-align/)
 - [Change Management](https://www.jamestharpe.com/change-management/)
 - [Cynefin Framework](https://www.jamestharpe.com/cynefin/)
 - [Scaled Agile Framework (SAFe)](https://www.jamestharpe.com/safe-framework/)
 - [RACI: Responsible, Accountable, Consulted, Informed](https://www.jamestharpe.com/raci/)
-- [Fix the Windows Subsystem for Linux internet connection while on VPN](https://www.jamestharpe.com/wsl-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
