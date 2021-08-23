@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Jira Align](https://www.jamestharpe.com/jira-align/)
-- [Change Management](https://www.jamestharpe.com/change-management/)
-- [Cynefin Framework](https://www.jamestharpe.com/cynefin/)
-- [Scaled Agile Framework (SAFe)](https://www.jamestharpe.com/safe-framework/)
-- [RACI: Responsible, Accountable, Consulted, Informed](https://www.jamestharpe.com/raci/)
+- [Containers](https://www.jamestharpe.com/containers/)
+- [Kubernetes CLI: kubectl](https://www.jamestharpe.com/kubectl/)
+- [Kubernetes (k8s)](https://www.jamestharpe.com/kubernetes/)
+- [SCARF Model: Status, Certainty, Autonomy, Relatedness, Fairness](https://www.jamestharpe.com/scarf-model/)
+- [Softwarte Testing](https://www.jamestharpe.com/software-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
