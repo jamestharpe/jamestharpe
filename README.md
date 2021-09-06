@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Containers](https://www.jamestharpe.com/containers/)
-- [Kubernetes CLI: kubectl](https://www.jamestharpe.com/kubectl/)
-- [Kubernetes (k8s)](https://www.jamestharpe.com/kubernetes/)
-- [SCARF Model: Status, Certainty, Autonomy, Relatedness, Fairness](https://www.jamestharpe.com/scarf-model/)
-- [Softwarte Testing](https://www.jamestharpe.com/software-testing/)
+- [IETF Standards](https://www.jamestharpe.com/ietf-standards/)
+- [American Standard Code for Information Interchange (ASCII)](https://www.jamestharpe.com/ascii/)
+- [Base64](https://www.jamestharpe.com/base64/)
+- [Base64url](https://www.jamestharpe.com/base64url/)
+- [Binary Numbers](https://www.jamestharpe.com/binary/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
