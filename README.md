@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acceptance Testing](https://www.jamestharpe.com/acceptance-testing/)
+- [Agile](https://www.jamestharpe.com/agile/)
+- [User Stories](https://www.jamestharpe.com/user-stories/)
+- [Requirements](https://www.jamestharpe.com/requirements/)
 - [IETF Standards](https://www.jamestharpe.com/ietf-standards/)
-- [American Standard Code for Information Interchange (ASCII)](https://www.jamestharpe.com/ascii/)
-- [Base64](https://www.jamestharpe.com/base64/)
-- [Base64url](https://www.jamestharpe.com/base64url/)
-- [Binary Numbers](https://www.jamestharpe.com/binary/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
