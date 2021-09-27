@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript (and TypeScript) recipes](https://www.jamestharpe.com/js-recipes/)
+- [JavaScript Recipe: Get the unique elements from an array](https://www.jamestharpe.com/js-get-unique-array-elements/)
+- [Unsplash](https://www.jamestharpe.com/unsplash/)
 - [Acceptance Testing](https://www.jamestharpe.com/acceptance-testing/)
 - [Agile](https://www.jamestharpe.com/agile/)
-- [User Stories](https://www.jamestharpe.com/user-stories/)
-- [Requirements](https://www.jamestharpe.com/requirements/)
-- [IETF Standards](https://www.jamestharpe.com/ietf-standards/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
