@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [System Qualities and Nonfunctional Requirements (NFRs)](https://www.jamestharpe.com/system-qualities/)
+- [Software Architecture](https://www.jamestharpe.com/software-architecture/)
+- [Architectural Decision Records (ARDs)](https://www.jamestharpe.com/adrs/)
 - [Permanent removal of Windows taskbar pinned items](https://www.jamestharpe.com/windows-unpinned-items-return-on-restart/)
-- [JavaScript (and TypeScript) recipes](https://www.jamestharpe.com/js-recipes/)
 - [JavaScript Recipe: Get the unique elements from an array](https://www.jamestharpe.com/js-get-unique-array-elements/)
-- [Unsplash](https://www.jamestharpe.com/unsplash/)
-- [Acceptance Testing](https://www.jamestharpe.com/acceptance-testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
