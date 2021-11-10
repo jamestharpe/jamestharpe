@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leadership](https://www.jamestharpe.com/leadership/)
 - [JavaScript Recipe: Get the last element from an array](https://www.jamestharpe.com/js-get-last-array-element/)
 - [SMART Goals](https://www.jamestharpe.com/smart-goals/)
 - [You Aren&#39;t Gonna Need it &lpar;YAGNI&rpar;](https://www.jamestharpe.com/yagni/)
 - [Architectural Decision Records &lpar;ARDs&rpar;](https://www.jamestharpe.com/adrs/)
-- [System Qualities and Nonfunctional Requirements &lpar;NFRs&rpar;](https://www.jamestharpe.com/system-qualities/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
