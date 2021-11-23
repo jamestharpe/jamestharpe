@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Recipes](https://www.jamestharpe.com/react-recipes/)
+- [Dreyfus Model of Skill Acquisition](https://www.jamestharpe.com/dreyfus-model-of-skill-acquisition/)
 - [Big Data](https://www.jamestharpe.com/big-data/)
 - [Epistemology](https://www.jamestharpe.com/epistemology/)
 - [Research](https://www.jamestharpe.com/research/)
-- [Sociology](https://www.jamestharpe.com/sociology/)
-- [Economics](https://www.jamestharpe.com/economics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
