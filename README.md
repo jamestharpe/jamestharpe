@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React Recipes](https://www.jamestharpe.com/react-recipes/)
-- [Dreyfus Model of Skill Acquisition](https://www.jamestharpe.com/dreyfus-model-of-skill-acquisition/)
-- [Big Data](https://www.jamestharpe.com/big-data/)
-- [Epistemology](https://www.jamestharpe.com/epistemology/)
-- [Research](https://www.jamestharpe.com/research/)
+- [DevOps](https://www.jamestharpe.com/devops/)
+- [Mypy](https://www.jamestharpe.com/mypy/)
+- [Pipenv](https://www.jamestharpe.com/pipenv/)
+- [Pip: Python&#39;s Package Manager](https://www.jamestharpe.com/python-pip/)
+- [Python Virtual Environments](https://www.jamestharpe.com/python-venvs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
