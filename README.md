@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps](https://www.jamestharpe.com/devops/)
-- [Mypy](https://www.jamestharpe.com/mypy/)
-- [Pipenv](https://www.jamestharpe.com/pipenv/)
-- [Pip: Python&#39;s Package Manager](https://www.jamestharpe.com/python-pip/)
-- [Python Virtual Environments](https://www.jamestharpe.com/python-venvs/)
+- [Publish/Subscribe Pattern &lpar;Pub-sub&rpar;](https://www.jamestharpe.com/pub-sub/)
+- [Content-Addressed Storage &lpar;CAS&rpar;](https://www.jamestharpe.com/content-addressed-storage/)
+- [Insert-only Databases](https://www.jamestharpe.com/insert-only-databases/)
+- [Tombstone Design Pattern](https://www.jamestharpe.com/tombstone-pattern/)
+- [Snapshot Design Pattern](https://www.jamestharpe.com/snapshot-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
