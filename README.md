@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Redshift](https://www.jamestharpe.com/amazon-redshift/)
 - [Publish/Subscribe Pattern &lpar;Pub-sub&rpar;](https://www.jamestharpe.com/pub-sub/)
 - [Content-Addressed Storage &lpar;CAS&rpar;](https://www.jamestharpe.com/content-addressed-storage/)
+- [Columnar Databases](https://www.jamestharpe.com/columnar-databases/)
 - [Insert-only Databases](https://www.jamestharpe.com/insert-only-databases/)
-- [Tombstone Design Pattern](https://www.jamestharpe.com/tombstone-pattern/)
-- [Snapshot Design Pattern](https://www.jamestharpe.com/snapshot-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
