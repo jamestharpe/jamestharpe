@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Redshift](https://www.jamestharpe.com/amazon-redshift/)
-- [Publish/Subscribe Pattern &lpar;Pub-sub&rpar;](https://www.jamestharpe.com/pub-sub/)
-- [Content-Addressed Storage &lpar;CAS&rpar;](https://www.jamestharpe.com/content-addressed-storage/)
-- [Columnar Databases](https://www.jamestharpe.com/columnar-databases/)
-- [Insert-only Databases](https://www.jamestharpe.com/insert-only-databases/)
+- [Relational Databases](https://www.jamestharpe.com/relational-databases/)
+- [SQL JOIN clauses: INNER, OUTER, LEFT, RIGHT, FULL](https://www.jamestharpe.com/sql-joins/)
+- [Structured Query Language &lpar;SQL&rpar;](https://www.jamestharpe.com/sql/)
+- [PostgreSQL](https://www.jamestharpe.com/postgresql/)
+- [Backlog Coupling](https://www.jamestharpe.com/backlog-coupling/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
