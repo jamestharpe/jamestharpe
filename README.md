@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Relational Databases](https://www.jamestharpe.com/relational-databases/)
-- [SQL JOIN clauses: INNER, OUTER, LEFT, RIGHT, FULL](https://www.jamestharpe.com/sql-joins/)
-- [Structured Query Language &lpar;SQL&rpar;](https://www.jamestharpe.com/sql/)
-- [PostgreSQL](https://www.jamestharpe.com/postgresql/)
-- [Backlog Coupling](https://www.jamestharpe.com/backlog-coupling/)
+- [Data Governance](https://www.jamestharpe.com/data-governance/)
+- [Snowflake Schemas](https://www.jamestharpe.com/snowflake-schema/)
+- [Star Schemas](https://www.jamestharpe.com/star-schemas/)
+- [Cloud platforms](https://www.jamestharpe.com/cloud-platforms/)
+- [Online Analytical Processing &lpar;OLAP&rpar;](https://www.jamestharpe.com/olap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
