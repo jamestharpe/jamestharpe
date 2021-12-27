@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Base64](https://www.jamestharpe.com/base64/)
+- [Base64url](https://www.jamestharpe.com/base64url/)
 - [Data Governance](https://www.jamestharpe.com/data-governance/)
 - [Snowflake Schemas](https://www.jamestharpe.com/snowflake-schema/)
 - [Star Schemas](https://www.jamestharpe.com/star-schemas/)
-- [Cloud platforms](https://www.jamestharpe.com/cloud-platforms/)
-- [Online Analytical Processing &lpar;OLAP&rpar;](https://www.jamestharpe.com/olap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
