@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Base64](https://www.jamestharpe.com/base64/)
+- [Conway&#39;s Law](https://www.jamestharpe.com/conways-law/)
+- [Infrastructure as Code &lpar;IaC&rpar;](https://www.jamestharpe.com/infrastructure-as-code/)
 - [Base64url](https://www.jamestharpe.com/base64url/)
+- [Base64](https://www.jamestharpe.com/base64/)
 - [Data Governance](https://www.jamestharpe.com/data-governance/)
-- [Snowflake Schemas](https://www.jamestharpe.com/snowflake-schema/)
-- [Star Schemas](https://www.jamestharpe.com/star-schemas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
