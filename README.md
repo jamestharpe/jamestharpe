@@ -7,8 +7,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Conway&#39;s Law](https://www.jamestharpe.com/conways-law/)
 - [Infrastructure as Code &lpar;IaC&rpar;](https://www.jamestharpe.com/infrastructure-as-code/)
-- [Base64url](https://www.jamestharpe.com/base64url/)
 - [Base64](https://www.jamestharpe.com/base64/)
+- [Base64url](https://www.jamestharpe.com/base64url/)
 - [Data Governance](https://www.jamestharpe.com/data-governance/)
 <!-- BLOG-POST-LIST:END -->
 
