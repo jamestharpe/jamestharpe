@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fitness Calculations](https://www.jamestharpe.com/fitness-calculations/)
+- [Physical Fitness](https://www.jamestharpe.com/physical-fitness/)
 - [Azure Data Lake Gen2](https://www.jamestharpe.com/azure-data-lake-gen2/)
 - [Data Lakehouses](https://www.jamestharpe.com/data-lakehouses/)
 - [Data Lakes](https://www.jamestharpe.com/data-lakes/)
-- [Azure Synapse Analytics](https://www.jamestharpe.com/azure-synapse-analytics/)
-- [Version Control](https://www.jamestharpe.com/version-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
