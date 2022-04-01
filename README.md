@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Data Lake Gen2](https://www.jamestharpe.com/azure-data-lake-gen2/)
-- [Data Lakehouses](https://www.jamestharpe.com/data-lakehouses/)
-- [Data Lakes](https://www.jamestharpe.com/data-lakes/)
-- [Azure Synapse Analytics](https://www.jamestharpe.com/azure-synapse-analytics/)
-- [Version Control](https://www.jamestharpe.com/version-control/)
+- [Python Poetry](https://www.jamestharpe.com/python-poetry/)
+- [Google Cloud](https://www.jamestharpe.com/google-cloud/)
+- [DevOps Research and Assessment &lpar;DORA&rpar;](https://www.jamestharpe.com/dora/)
+- [Management](https://www.jamestharpe.com/management/)
+- [DORA&#39;s Four Key Metrics](https://www.jamestharpe.com/dora-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
