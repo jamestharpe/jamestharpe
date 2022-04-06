@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Governance](https://www.jamestharpe.com/data-governance/)
 - [Python Poetry](https://www.jamestharpe.com/python-poetry/)
 - [Google Cloud](https://www.jamestharpe.com/google-cloud/)
 - [DevOps Research and Assessment &lpar;DORA&rpar;](https://www.jamestharpe.com/dora/)
 - [Management](https://www.jamestharpe.com/management/)
-- [DORA&#39;s Four Key Metrics](https://www.jamestharpe.com/dora-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
