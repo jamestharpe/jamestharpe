@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unstructured Data](https://www.jamestharpe.com/unstructured-data/)
+- [Semi-Structured Data](https://www.jamestharpe.com/semi-structured-data/)
+- [Structured Data](https://www.jamestharpe.com/structured-data/)
 - [Data Governance](https://www.jamestharpe.com/data-governance/)
 - [Python Poetry](https://www.jamestharpe.com/python-poetry/)
-- [Google Cloud](https://www.jamestharpe.com/google-cloud/)
-- [DevOps Research and Assessment &lpar;DORA&rpar;](https://www.jamestharpe.com/dora/)
-- [Management](https://www.jamestharpe.com/management/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
