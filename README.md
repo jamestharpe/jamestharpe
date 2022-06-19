@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scuba Diving](https://www.jamestharpe.com/scuba-diving/)
 - [Unstructured Data](https://www.jamestharpe.com/unstructured-data/)
 - [Semi-Structured Data](https://www.jamestharpe.com/semi-structured-data/)
 - [Structured Data](https://www.jamestharpe.com/structured-data/)
 - [Data Governance](https://www.jamestharpe.com/data-governance/)
-- [Python Poetry](https://www.jamestharpe.com/python-poetry/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
