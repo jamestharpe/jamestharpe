@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Science](https://www.jamestharpe.com/data-science/)
+- [Data Wrangling](https://www.jamestharpe.com/data-wrangling/)
 - [Fitness Calculations](https://www.jamestharpe.com/fitness-calculations/)
 - [Scuba Diving](https://www.jamestharpe.com/scuba-diving/)
 - [Unstructured Data](https://www.jamestharpe.com/unstructured-data/)
-- [Semi-Structured Data](https://www.jamestharpe.com/semi-structured-data/)
-- [Structured Data](https://www.jamestharpe.com/structured-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
