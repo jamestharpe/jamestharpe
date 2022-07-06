@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Empty Wheelbarrow &lpar;joke&rpar;](https://www.jamestharpe.com/empty-wheelbarrow-joke/)
+- [D3 &lpar;JavaScript Library&rpar;](https://www.jamestharpe.com/d3/)
+- [Archimedes Principle](https://www.jamestharpe.com/archimedes-principle/)
+- [Artificial Intelligence &lpar;AI&rpar;](https://www.jamestharpe.com/artificial-intelligence/)
 - [Data Science](https://www.jamestharpe.com/data-science/)
-- [Data Wrangling](https://www.jamestharpe.com/data-wrangling/)
-- [Fitness Calculations](https://www.jamestharpe.com/fitness-calculations/)
-- [Scuba Diving](https://www.jamestharpe.com/scuba-diving/)
-- [Unstructured Data](https://www.jamestharpe.com/unstructured-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
