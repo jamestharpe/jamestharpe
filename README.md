@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [1R Classification Algorithm](https://www.jamestharpe.com/1r-algorithm/)
+- [Classification Learning](https://www.jamestharpe.com/classification-learning/)
+- [Data Mining](https://www.jamestharpe.com/data-mining/)
 - [Apache Flink](https://www.jamestharpe.com/apache-flink/)
 - [Scuba Diving](https://www.jamestharpe.com/scuba-diving/)
-- [The Empty Wheelbarrow &lpar;joke&rpar;](https://www.jamestharpe.com/empty-wheelbarrow-joke/)
-- [D3 &lpar;JavaScript Library&rpar;](https://www.jamestharpe.com/d3/)
-- [Archimedes Principle](https://www.jamestharpe.com/archimedes-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
