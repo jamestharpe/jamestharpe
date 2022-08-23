@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Digital Marketing](https://www.jamestharpe.com/digital-marketing/)
+- [The Trade Desk](https://www.jamestharpe.com/the-trade-desk/)
 - [1R Classification Algorithm](https://www.jamestharpe.com/1r-algorithm/)
 - [Classification Learning](https://www.jamestharpe.com/classification-learning/)
 - [Data Mining](https://www.jamestharpe.com/data-mining/)
-- [Apache Flink](https://www.jamestharpe.com/apache-flink/)
-- [Scuba Diving](https://www.jamestharpe.com/scuba-diving/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
