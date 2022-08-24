@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Marketing](https://www.jamestharpe.com/digital-marketing/)
-- [The Trade Desk](https://www.jamestharpe.com/the-trade-desk/)
-- [1R Classification Algorithm](https://www.jamestharpe.com/1r-algorithm/)
-- [Classification Learning](https://www.jamestharpe.com/classification-learning/)
-- [Data Mining](https://www.jamestharpe.com/data-mining/)
+- [Azure Synapse Analytics](https://www.jamestharpe.com/azure-synapse-analytics/)
+- [Python Open-Source Data Libraries](https://www.jamestharpe.com/python-data-libs/)
+- [Seaborn Python Library](https://www.jamestharpe.com/seaborn/)
+- [Exploratory Data Analysis &lpar;EDA&rpar;](https://www.jamestharpe.com/exploratory-data-analysis/)
+- [Pandas Python Library](https://www.jamestharpe.com/pandas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
