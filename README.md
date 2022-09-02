@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Formerly Known As &lpar;FKA&rpar; &lpar;Agency&rpar;](https://www.jamestharpe.com/fka/)
 - [Azure Synapse Analytics](https://www.jamestharpe.com/azure-synapse-analytics/)
 - [Python Open-Source Data Libraries](https://www.jamestharpe.com/python-data-libs/)
 - [Seaborn Python Library](https://www.jamestharpe.com/seaborn/)
 - [Exploratory Data Analysis &lpar;EDA&rpar;](https://www.jamestharpe.com/exploratory-data-analysis/)
-- [Pandas Python Library](https://www.jamestharpe.com/pandas/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
