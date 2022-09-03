@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Averages: Measures of Central Tendency](https://www.jamestharpe.com/averages/)
+- [Dispersions: Measures of Spread](https://www.jamestharpe.com/dispersions/)
+- [Acrylonitrile Butadiene Styrene &lpar;ABS&rpar; Filament](https://www.jamestharpe.com/abs-filament/)
 - [Formerly Known As &lpar;FKA&rpar; &lpar;Agency&rpar;](https://www.jamestharpe.com/fka/)
 - [Azure Synapse Analytics](https://www.jamestharpe.com/azure-synapse-analytics/)
-- [Python Open-Source Data Libraries](https://www.jamestharpe.com/python-data-libs/)
-- [Seaborn Python Library](https://www.jamestharpe.com/seaborn/)
-- [Exploratory Data Analysis &lpar;EDA&rpar;](https://www.jamestharpe.com/exploratory-data-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
