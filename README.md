@@ -6,7 +6,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [PySpark Recipes for Data Cleansing, Analysis, and Science](https://www.jamestharpe.com/pyspark/)
-- [List of Open Datasets](https://www.jamestharpe.com/open-datasets/)
+- [List of Public and Open Datasets](https://www.jamestharpe.com/open-datasets/)
 - [Averages: Measures of Central Tendency](https://www.jamestharpe.com/averages/)
 - [Dispersions: Measures of Spread](https://www.jamestharpe.com/dispersions/)
 - [Acrylonitrile Butadiene Styrene &lpar;ABS&rpar; Filament](https://www.jamestharpe.com/abs-filament/)
