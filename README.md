@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Data Lakehouses](https://www.jamestharpe.com/data-lakehouses/)
 - [Internet Advertising Bureau &lpar;IAB&rpar;](https://www.jamestharpe.com/iab/)
 - [PySpark Recipes for Data Cleansing, Analysis, and Science](https://www.jamestharpe.com/pyspark/)
 - [List of Public and Open Datasets](https://www.jamestharpe.com/open-datasets/)
 - [Averages: Measures of Central Tendency](https://www.jamestharpe.com/averages/)
-- [Dispersions: Measures of Spread](https://www.jamestharpe.com/dispersions/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
