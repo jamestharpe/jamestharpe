@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SMOTE: Synthetic Minority Oversampling Technique](https://www.jamestharpe.com/smote/)
 - [ACID Transactions](https://www.jamestharpe.com/acid-transactions/)
 - [Data Lakehouses](https://www.jamestharpe.com/data-lakehouses/)
 - [Internet Advertising Bureau &lpar;IAB&rpar;](https://www.jamestharpe.com/iab/)
 - [PySpark Recipes for Data Cleansing, Analysis, and Science](https://www.jamestharpe.com/pyspark/)
-- [List of Public and Open Datasets](https://www.jamestharpe.com/open-datasets/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
