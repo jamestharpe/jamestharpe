@@ -15,6 +15,7 @@
 ## Languages and Tools I Enjoy 🛠
 
 <!-- Languages -->
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg">
 <img align="left" alt="TypeScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg">
 <img align="left" alt="javaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg">
 <img align="left" alt="JSON" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg">
@@ -35,6 +36,7 @@
 <img align="left" alt="Jira" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jira.svg">
 <img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg">
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apachespark.svg">
 
 <br /><br />
 
