@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SMOTE: Synthetic Minority Oversampling Technique](https://www.jamestharpe.com/smote/)
-- [ACID Transactions](https://www.jamestharpe.com/acid-transactions/)
-- [Data Lakehouses](https://www.jamestharpe.com/data-lakehouses/)
-- [Internet Advertising Bureau &lpar;IAB&rpar;](https://www.jamestharpe.com/iab/)
-- [PySpark Recipes for Data Cleansing, Analysis, and Science](https://www.jamestharpe.com/pyspark/)
+- [Code Recipes](https://www.jamestharpe.com/code-recipes/)
+- [PySpark Recipe: Conditionally replace a column&#39;s values](https://www.jamestharpe.com/pyspark-conditionally-replace-column-values/)
+- [PySpark Recipe: Drop single-value columns](https://www.jamestharpe.com/pyspark-drop-single-value-columns/)
+- [PySpark Recipe: Select rows where any column contains a null value](https://www.jamestharpe.com/pyspark-select-rows-with-nulls/)
+- [PySpark Recipes](https://www.jamestharpe.com/pyspark-recipes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
