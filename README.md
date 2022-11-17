@@ -8,8 +8,8 @@
 - [Statistical data types](https://www.jamestharpe.com/statistical-data-types/)
 - [Machine Learning &lpar;ML&rpar;](https://www.jamestharpe.com/machine-learning/)
 - [Code Recipes](https://www.jamestharpe.com/code-recipes/)
-- [PySpark Recipe: Conditionally replace a column&#39;s values](https://www.jamestharpe.com/pyspark-conditionally-replace-column-values/)
 - [PySpark Recipe: Drop single-value columns](https://www.jamestharpe.com/pyspark-drop-single-value-columns/)
+- [PySpark Recipe: Conditionally replace a column&#39;s values](https://www.jamestharpe.com/pyspark-conditionally-replace-column-values/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
