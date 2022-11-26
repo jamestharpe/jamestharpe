@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistical data types](https://www.jamestharpe.com/statistical-data-types/)
-- [Machine Learning &lpar;ML&rpar;](https://www.jamestharpe.com/machine-learning/)
-- [Code Recipes](https://www.jamestharpe.com/code-recipes/)
-- [PySpark Recipe: Drop single-value columns](https://www.jamestharpe.com/pyspark-drop-single-value-columns/)
-- [PySpark Recipe: Conditionally replace a column&#39;s values](https://www.jamestharpe.com/pyspark-conditionally-replace-column-values/)
+- [Types of Machine Learning](https://www.jamestharpe.com/ml-types/)
+- [Batch and Offline Learning](https://www.jamestharpe.com/ml-batch-learning/)
+- [Online Learning](https://www.jamestharpe.com/ml-online-learning/)
+- [Semisupervised Learning](https://www.jamestharpe.com/ml-semisupervised/)
+- [Reinforcement Learning](https://www.jamestharpe.com/ml-reinforcement-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
