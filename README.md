@@ -7,8 +7,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Types of Machine Learning](https://www.jamestharpe.com/ml-types/)
 - [Batch and Offline Learning](https://www.jamestharpe.com/ml-batch-learning/)
-- [Semisupervised Learning](https://www.jamestharpe.com/ml-semisupervised/)
 - [Online Learning](https://www.jamestharpe.com/ml-online-learning/)
+- [Semisupervised Learning](https://www.jamestharpe.com/ml-semisupervised/)
 - [Reinforcement Learning](https://www.jamestharpe.com/ml-reinforcement-learning/)
 <!-- BLOG-POST-LIST:END -->
 
