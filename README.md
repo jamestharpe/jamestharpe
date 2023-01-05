@@ -8,7 +8,7 @@
 - [PySpark Recipe: Re-order Columns in a Dataframe](https://www.jamestharpe.com/pyspark-re-order-dataframe-columns/)
 - [Machine Learning Project Outline](https://www.jamestharpe.com/ml-project-outline/)
 - [Types of Machine Learning](https://www.jamestharpe.com/ml-types/)
-- [Batch and Offline Learning](https://www.jamestharpe.com/ml-batch-learning/)
+- [Online Learning](https://www.jamestharpe.com/ml-online-learning/)
 - [Reinforcement Learning](https://www.jamestharpe.com/ml-reinforcement-learning/)
 <!-- BLOG-POST-LIST:END -->
 
