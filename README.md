@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Structured Query Language &lpar;SQL&rpar;](https://www.jamestharpe.com/sql/)
 - [Root Mean Square Error &lpar;RMSE&rpar;](https://www.jamestharpe.com/rmse/)
 - [PySpark Recipe: Re-order Columns in a Dataframe](https://www.jamestharpe.com/pyspark-re-order-dataframe-columns/)
 - [Machine Learning Project Outline](https://www.jamestharpe.com/ml-project-outline/)
 - [Types of Machine Learning](https://www.jamestharpe.com/ml-types/)
-- [Online Learning](https://www.jamestharpe.com/ml-online-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
