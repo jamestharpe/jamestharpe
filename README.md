@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Clear Room](https://www.jamestharpe.com/data-clean-room/)
+- [High Brand Loyalty &lpar;HBL&rpar; Consumers](https://www.jamestharpe.com/hbl-consumers/)
+- [Dimensional Modeling](https://www.jamestharpe.com/dimensional-modeling/)
+- [Data Clean Room](https://www.jamestharpe.com/data-clean-room/)
 - [Structured Query Language &lpar;SQL&rpar;](https://www.jamestharpe.com/sql/)
 - [Root Mean Square Error &lpar;RMSE&rpar;](https://www.jamestharpe.com/rmse/)
-- [PySpark Recipe: Re-order Columns in a Dataframe](https://www.jamestharpe.com/pyspark-re-order-dataframe-columns/)
-- [Machine Learning Project Outline](https://www.jamestharpe.com/ml-project-outline/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
