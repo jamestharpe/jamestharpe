@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering](https://www.jamestharpe.com/prompt-engineering/)
+- [ChatGPT: Introduction and Examples](https://www.jamestharpe.com/chatgpt/)
+- [Generative Pre-trained Transformer &lpar;GPT&rpar;](https://www.jamestharpe.com/gpt/)
 - [High Brand Loyalty &lpar;HBL&rpar; Consumers](https://www.jamestharpe.com/hbl-consumers/)
 - [Dimensional Modeling](https://www.jamestharpe.com/dimensional-modeling/)
-- [Data Clean Room](https://www.jamestharpe.com/data-clean-room/)
-- [Structured Query Language &lpar;SQL&rpar;](https://www.jamestharpe.com/sql/)
-- [Root Mean Square Error &lpar;RMSE&rpar;](https://www.jamestharpe.com/rmse/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
