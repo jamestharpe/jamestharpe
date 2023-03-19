@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Prompts](https://www.jamestharpe.com/chatgpt-prompts/)
 - [Prompt Engineering](https://www.jamestharpe.com/prompt-engineering/)
 - [ChatGPT: Introduction and Examples](https://www.jamestharpe.com/chatgpt/)
 - [Generative Pre-trained Transformer &lpar;GPT&rpar;](https://www.jamestharpe.com/gpt/)
 - [High Brand Loyalty &lpar;HBL&rpar; Consumers](https://www.jamestharpe.com/hbl-consumers/)
-- [Dimensional Modeling](https://www.jamestharpe.com/dimensional-modeling/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
