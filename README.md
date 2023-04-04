@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Prompts](https://www.jamestharpe.com/chatgpt-prompts/)
-- [Prompt Engineering](https://www.jamestharpe.com/prompt-engineering/)
-- [ChatGPT: Introduction and Examples](https://www.jamestharpe.com/chatgpt/)
-- [Generative Pre-trained Transformer &lpar;GPT&rpar;](https://www.jamestharpe.com/gpt/)
-- [High Brand Loyalty &lpar;HBL&rpar; Consumers](https://www.jamestharpe.com/hbl-consumers/)
+- [Formal Sciences](https://www.jamestharpe.com/formal-sciences/)
+- [ChatGPT as a Software Development Assistant](https://www.jamestharpe.com/chatgpt-prompt-software-developer-assistant/)
+- [ChatGPT as a Teacher or Tutor](https://www.jamestharpe.com/chatgpt-prompt-teacher-tutor/)
+- [Happiness](https://www.jamestharpe.com/happiness/)
+- [Natural Sciences](https://www.jamestharpe.com/natural-sciences/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
