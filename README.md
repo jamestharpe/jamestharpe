@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Formal Sciences](https://www.jamestharpe.com/formal-sciences/)
-- [ChatGPT as a Software Development Assistant](https://www.jamestharpe.com/chatgpt-prompt-software-developer-assistant/)
-- [ChatGPT as a Teacher or Tutor](https://www.jamestharpe.com/chatgpt-prompt-teacher-tutor/)
-- [Happiness](https://www.jamestharpe.com/happiness/)
-- [Natural Sciences](https://www.jamestharpe.com/natural-sciences/)
+- [React Native](https://www.jamestharpe.com/react-native/)
+- [About James Tharpe](https://www.jamestharpe.com/me/)
+- [Introversion](https://www.jamestharpe.com/introversion/)
+- [Sales Attribution Models](https://www.jamestharpe.com/sales-attribution-models/)
+- [Data Democratization](https://www.jamestharpe.com/data-democratization/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
