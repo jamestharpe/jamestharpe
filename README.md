@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cascading Style Sheets &lpar;CSS&rpar;](https://www.jamestharpe.com/css/)
+- [Foot Guns](https://www.jamestharpe.com/foot-guns/)
+- [Sassy Cascading Stylesheets &lpar;SCSS&rpar;](https://www.jamestharpe.com/scss/)
+- [Essential Cooking Skills](https://www.jamestharpe.com/cooking/)
 - [React Native](https://www.jamestharpe.com/react-native/)
-- [About James Tharpe](https://www.jamestharpe.com/me/)
-- [Introversion](https://www.jamestharpe.com/introversion/)
-- [Sales Attribution Models](https://www.jamestharpe.com/sales-attribution-models/)
-- [Data Democratization](https://www.jamestharpe.com/data-democratization/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
