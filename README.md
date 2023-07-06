@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AVIF Images](https://www.jamestharpe.com/avif/)
+- [Core Web Vitals](https://www.jamestharpe.com/core-web-vitals/)
 - [Cascading Style Sheets &lpar;CSS&rpar;](https://www.jamestharpe.com/css/)
 - [Foot Guns](https://www.jamestharpe.com/foot-guns/)
 - [Sassy Cascading Stylesheets &lpar;SCSS&rpar;](https://www.jamestharpe.com/scss/)
-- [Essential Cooking Skills](https://www.jamestharpe.com/cooking/)
-- [React Native](https://www.jamestharpe.com/react-native/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
