@@ -5,11 +5,11 @@
 ## 📝 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a Scalable White-Label SaaS Application](https://www.jamestharpe.com/whitelabel-saas-architecture/)
+- [Jokes](https://www.jamestharpe.com/jokes/)
 - [Storybook](https://www.jamestharpe.com/storybook/)
 - [User Experience &lpar;UX&rpar;](https://www.jamestharpe.com/ux/)
-- [AVIF Images](https://www.jamestharpe.com/avif/)
 - [Core Web Vitals](https://www.jamestharpe.com/core-web-vitals/)
-- [Cascading Style Sheets &lpar;CSS&rpar;](https://www.jamestharpe.com/css/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
