@@ -9,7 +9,7 @@
 - [Jokes](https://www.jamestharpe.com/jokes/)
 - [Storybook](https://www.jamestharpe.com/storybook/)
 - [User Experience &lpar;UX&rpar;](https://www.jamestharpe.com/ux/)
-- [Core Web Vitals](https://www.jamestharpe.com/core-web-vitals/)
+- [AVIF Images](https://www.jamestharpe.com/avif/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages and Tools I Enjoy 🛠
